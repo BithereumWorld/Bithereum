@@ -1,0 +1,9 @@
+Building Bithereum
+
+See doc/readme-qt.rst for instructions on building Bithereum QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bithereum.
+
+See doc/build-*.txt for instructions on building bithereumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bithereum.
